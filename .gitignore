@@ -1,6 +1,12 @@
 .venv/
+venv/
+.env/
 robot/
 __pycache__/
 *.pyc
 *.png
 *.save
+*.pt
+*.pth
+data/
+outputs/
